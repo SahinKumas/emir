@@ -1,0 +1,22 @@
+{
+  "name": "emir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SahinKumas/emir.git"
+  },
+  "author": "emir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahinKumas/emir/issues"
+  },
+  "homepage": "https://github.com/SahinKumas/emir#readme",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
