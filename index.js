@@ -1,0 +1,1 @@
+console.log('bunu yazan tosun okuyana kosun');
